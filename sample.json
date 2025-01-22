@@ -1,0 +1,83 @@
+[
+    {
+      "name": "John Doe",
+      "age": 18,
+      "gender": "Male",
+      "marks": 85,
+      "attendance": 90,
+      "grade": "A"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 19,
+      "gender": "Female",
+      "marks": 78,
+      "attendance": 95,
+      "grade": "B"
+    },
+    {
+      "name": "Alice Johnson",
+      "age": 17,
+      "gender": "Female",
+      "marks": 92,
+      "attendance": 88,
+      "grade": "A"
+    },
+    {
+      "name": "Bob Brown",
+      "age": 18,
+      "gender": "Male",
+      "marks": 74,
+      "attendance": 85,
+      "grade": "C"
+    },
+    {
+      "name": "Charlie Davis",
+      "age": 20,
+      "gender": "Male",
+      "marks": 89,
+      "attendance": 92,
+      "grade": "A"
+    },
+    {
+      "name": "Eve Adams",
+      "age": 19,
+      "gender": "Female",
+      "marks": 81,
+      "attendance": 87,
+      "grade": "B"
+    },
+    {
+      "name": "Frank Wright",
+      "age": 18,
+      "gender": "Male",
+      "marks": 69,
+      "attendance": 80,
+      "grade": "D"
+    },
+    {
+      "name": "Grace Lee",
+      "age": 17,
+      "gender": "Female",
+      "marks": 95,
+      "attendance": 98,
+      "grade": "A"
+    },
+    {
+      "name": "Hank Green",
+      "age": 19,
+      "gender": "Male",
+      "marks": 76,
+      "attendance": 84,
+      "grade": "B"
+    },
+    {
+      "name": "Ivy Wilson",
+      "age": 18,
+      "gender": "Female",
+      "marks": 88,
+      "attendance": 90,
+      "grade": "A"
+    }
+  ]
+  
